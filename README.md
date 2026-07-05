@@ -1,4 +1,3 @@
-#  About Me:
 ##  About Me<br><br> I'm currently working on<br>- Building full-stack web applications using ASP.NET Core, SQL Server, and modern web technologies.<br>- Strengthening my Data Structures, System Design, and Backend Development skills.<br><br> I'm looking to collaborate on<br>- Open Source Projects<br>- Full-Stack Web Applications<br>- Backend Development (.NET, ASP.NET Core)<br>- AI-powered Web Applications<br><br>
 
 ## 🌐 Socials:
